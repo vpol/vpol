@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/vpol"><img src="https://api.daily.dev/devcards/v2/vqMnMbVXW5CMW1Dqx2MlQ.png?type=default&r=won" width="356" alt="vpol's Dev Card"/></a>
-
+<a href="https://app.daily.dev/vpol"><img src="https://api.daily.dev/devcards/v2/GTPraXItY7n4EKpdKtwwS.png?type=default&r=5jm" width="356" alt="Dev Card"/></a>
 
 <!--
 **vpol/vpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
